@@ -1,5 +1,6 @@
 ### Hello，我是言曌
-博主长期提供收徒带新人、毕业设计项目定制、企业级项目定制、项目调试问题解决等服务
+博主长期提供Java培训、毕设项目定制、论文降重、网站制作、远程调试。b站：Java刘哥
+
 
 <a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
 
