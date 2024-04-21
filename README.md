@@ -1,5 +1,5 @@
 ### Hello，我是言曌
-博主长期提供Java带新人、Java问题解决、网站制作、远程调试。b站：Java刘哥
+博主多年从事Java开发工作，目前已经脱产读研。
 
 
 <a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
