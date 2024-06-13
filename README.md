@@ -1,5 +1,5 @@
 ### Hello，我是言曌
-博主具有多年的Java开发工作经验，目前已经脱产读研，未来长期从事NLP和CV等方向研究，欢迎交流学习。
+博主具有多年的Java开发工作经验，目前已经脱产读研，欢迎交流学习。
 
 
 <a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
